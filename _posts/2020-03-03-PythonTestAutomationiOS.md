@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python自动化测试iOS项目"
-date: 2016-08-04 
+date: 2020-03-03 
 tags: python  
 ---
 
@@ -126,9 +126,6 @@ smtp_server是smtp的服务，如果你的from_addr是gamil.com，那么就要�
 [SMTP发送邮件](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386832745198026a685614e7462fb57dbf733cc9f3ad000)     
 
 <br>
-
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/08/PythonTestAutomationiOS/) 
-
  
 
 
